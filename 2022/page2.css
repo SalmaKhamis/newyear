@@ -20,6 +20,9 @@
     font-family:serif;
     color: white;
 }
+p{
+    padding:10px;
+}
 .row {
     display: -ms-flexbox; /* IE10 */
     display: flex;
